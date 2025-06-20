@@ -19,5 +19,8 @@
     "*.{json,md,css,html}": [
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
   }
 }
